@@ -1,6 +1,6 @@
 #jellytoolbar
 
-Dear宅学长的jellytoobar 果冻效果， https://github.com/Yalantis/JellyToolbar
+jellytoobar 果冻效果， https://github.com/Yalantis/JellyToolbar
 
 kotlin版本
 
